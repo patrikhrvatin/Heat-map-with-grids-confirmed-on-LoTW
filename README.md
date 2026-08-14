@@ -1,4 +1,23 @@
-Naravno, to je ključan korak za svakog korisnika. Ažurirao sam sekciju **"Quick Setup"** u `README.md` kako bi ti koraci bili istaknuti i jasni:
+# Ham Radio Grid Progress Map
+
+A Python tool that processes your Amateur Radio ADIF log files and generates an interactive, filterable world map visualizing your grid square progress across multiple bands.
+
+## Features
+
+*   **Interactive Band Filtering**: Switch dynamically between TOTAL and individual bands (160m to 6m) with live station counters.
+*   **Detailed Tooltips**: Hover over any grid square to see worked bands, unique station counts, and full callsign lists.
+*   **Heatmap Visualization**: Color-graded map squares based on your activity intensity.
+
+---
+
+## Quick Setup & Configuration (Must-Do)
+
+To make this script work with your personal logbook, you must complete the following steps:
+
+### 1. Install Dependencies
+Make sure you have Python installed, then run:
+```bash
+pip install folium adif_ioNaravno, to je ključan korak za svakog korisnika. Ažurirao sam sekciju **"Quick Setup"** u `README.md` kako bi ti koraci bili istaknuti i jasni:
 
 ---
 
