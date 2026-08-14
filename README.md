@@ -35,7 +35,7 @@ MY_HOME_GRID = "YOUR_GRID_HERE"  # e.g., "JN65XF"
 1. **Run the script**:
 
 ```bash
-python map_generator.py
+python all14en.py.py
 
 ```
 
