@@ -1,7 +1,3 @@
-Razumijem, želite samo jedan "čisti" blok bez ikakvih grešaka u formatiranju. Problem na vašoj slici je nastao jer su se ````` oznake pomiješale s tekstom.
-
-Evo **potpuno ispravljenog teksta**. Kopirajte ovo dolje (od prvog znaka `#` do zadnje riječi `License`):
-
 # Ham Radio Grid Progress Map
 
 A Python-based utility that transforms your Amateur Radio ADIF log files into an interactive, filterable world map. Visualize your progress across different bands, see which grid squares you've worked, and explore station statistics with ease.
